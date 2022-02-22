@@ -1,0 +1,3 @@
+[submodule "repoA"]
+	path = repoA
+	url = https://github.com/ns328/repoA.git
